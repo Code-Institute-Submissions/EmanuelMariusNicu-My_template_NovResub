@@ -1,0 +1,37 @@
+
+.title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+nav ul {
+    background-color:aqua;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+    nav li {
+    font-size: 1.5em;
+    line-height:10px;
+    height: -10px;
+    display:inline-block;
+    margin:3.0%;
+}
+nav a {
+    text-decoration: none;
+    display:block;
+}
+nav a:hover {
+    color:beige
+}
+body {
+    background-image: url("../CSS/images/pietro.jpg");
+    background-position: top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    overflow-y: auto;
+    margin:0;
+}
