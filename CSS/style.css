@@ -16,7 +16,7 @@ nav ul {
     nav li {
     font-size: 1.5em;
     line-height:10px;
-    height: -10px;
+    height:40px;
     display:inline-block;
     margin:3.0%;
 }
@@ -27,11 +27,10 @@ nav a {
 nav a:hover {
     color:beige
 }
-body {
-    background-image: url("../CSS/images/pietro.jpg");
-    background-position: top;
-    background-size:cover;
+.cover {
+    background-image: url("../CSS/images/yachtcover.jpg");
     background-repeat: no-repeat;
-    overflow-y: auto;
-    margin:0;
+    background-position: center;
+    
+
 }
