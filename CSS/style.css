@@ -59,7 +59,7 @@ body {
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url('../images/yacht.jpeg') no-repeat center center;
+    background: url('../CSS/images/yacht1.jpg') no-repeat center center;
 
     /* animates zoom effect on loading the page */
     animation-name: hero-zoom;
@@ -155,7 +155,7 @@ hr {
     
 }
 #image-container {
-    background: url("../images/welcome-image1.jpg")no-repeat center center;
+    background: url("../CSS/images/welcome-image1.jpg")no-repeat center center;
     height: 100%;
     background-size: cover;
     
