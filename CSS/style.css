@@ -228,14 +228,3 @@ footer {
 .offert-four {
     text-align: center;
 }
-
-.story-about-text {
-    text-align: center;
-    font-size: 90%;
-    padding-top: 0;
-    background-color: aliceblue;
-}
-.story-about-text p {
-    font-size:120%;
-    color:rgb(114, 107, 97);
-}
