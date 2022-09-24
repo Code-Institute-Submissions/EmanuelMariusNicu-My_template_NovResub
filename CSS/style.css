@@ -96,7 +96,7 @@ body {
     border-color: rgb(66, 173, 137);
     border-radius: 15px;
 }
-/* why choose us */
+/* why choose us section */
 #about-us {
     height:600px;
 }
@@ -189,4 +189,53 @@ footer {
     margin:1%;
     padding:5%;
 
+}
+
+/*creating the list of services in a row */
+
+
+.row {
+    display:flex;
+
+}
+
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.column2 {
+    flex: 33.33%;
+    padding: 5px;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.offert-one {
+    
+    text-align: center;
+}
+.offert-two {
+   
+    text-align: center;
+}
+.offert-three {
+    
+    text-align: center;
+}
+.offert-four {
+    text-align: center;
+}
+
+.story-about-text {
+    text-align: center;
+    font-size: 90%;
+    padding-top: 0;
+    background-color: aliceblue;
+}
+.story-about-text p {
+    font-size:120%;
+    color:rgb(114, 107, 97);
 }
