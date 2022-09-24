@@ -45,7 +45,9 @@ body {
 #menu a:hover {
     color:rgb(89, 8, 182);
 }
-/*hero image and cover text */
+
+/* hero-image and cover text*/
+
 #hero-outer {
     height: 800px;
     width: 100%;
@@ -59,13 +61,14 @@ body {
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url('../CSS/images/yacht1.jpg') no-repeat center center;
+    background: url('../css/images/yacht.jpeg') no-repeat center center;
 
     /* animates zoom effect on loading the page */
     animation-name: hero-zoom;
     animation-duration: 8s;
     animation-fill-mode: forwards;
 }
+
 
 /* creates the level of zoom for hero-image */
 
@@ -96,7 +99,7 @@ body {
     border-color: rgb(66, 173, 137);
     border-radius: 15px;
 }
-/* why choose us section */
+/* why choose us */
 #about-us {
     height:600px;
 }
@@ -145,6 +148,8 @@ hr {
     margin:20px 0;
     font-size: 180%;
 }
+/* why choose coming with us section (center image) */
+
 #circle-container {
     width:300px;
     height: 300px;
@@ -154,46 +159,34 @@ hr {
     margin: 0 auto;
     
 }
+
 #image-container {
-    background: url("../CSS/images/welcome-image1.jpg")no-repeat center center;
+    background: url("../css/images/welcome-image1.jpg")no-repeat center center;
     height: 100%;
     background-size: cover;
     
 }
-/*story about our website and styling */
-.story-about-text {
+
+/*Common attributes for bookexperience items*/
+.price {
+    color:black;
+
+}
+button {
+    font-size:large;
     text-align: center;
-    font-size: 90%;
-    padding-top: 0;
-    background-color: aliceblue;
-}
-.story-about-text p {
-    font-size:120%;
-    color:rgb(114, 107, 97);
-}
-
-/*styling footer and social-media icons */
-
-footer {
-    height:150px;
+    
 
 }
-.social-media {
-    text-align: center;
-}
-.social-media  > li {
-    display: inline;
-}
-.social-media i {
-    font-size:190%;
-    margin:1%;
-    padding:5%;
+button:hover {
+    color:white;
+
 
 }
 
-/*creating the list of services in a row */
+/*story-about*/
 
-
+/*book your experience services*/
 .row {
     display:flex;
 
@@ -226,5 +219,153 @@ footer {
     text-align: center;
 }
 .offert-four {
+    text-align: center;
+}
+/*section before footer */
+.story-about-text {
+    text-align: center;
+    font-size: 90%;
+    padding-top: 0;
+    background-color: aliceblue;
+}
+.story-about-text p {
+    font-size:120%;
+    color:rgb(114, 107, 97);
+}
+
+/* Footer */
+
+footer {
+    height:150px;
+
+}
+.social-media {
+    text-align: center;
+}
+.social-media  > li {
+    display: inline;
+}
+.social-media i {
+    font-size:190%;
+    margin:1%;
+    padding:5%;
+
+}
+
+/*gallery styling*/
+
+#photos {
+    clear:both;
+    line-height:0;
+    column-count:4;
+    column-gap:0;
+
+}
+#photos > img {
+    width:100%
+}
+
+/*Media queries*/
+
+/*For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    
+}
+
+
+
+
+/*Form */
+
+form {
+    /* Just to center the form on the page */
+    margin: 0 auto;
+    width: 400px;
+    /* To see the outline of the form */
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+form li + li {
+    margin-top: 1em;
+}
+
+label {
+    /* To make sure that all labels have the same size and are properly aligned */
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+
+input,
+textarea {
+  
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
+
+input:focus,
+textarea:focus {
+    /* To give a little highlight on active elements */
+    border-color: #000;
+}
+
+textarea {
+    /* To properly align multiline text fields with their labels */
+    vertical-align: top;
+    /* To give enough room to type some text */
+    height: 5em;
+}
+
+
+
+/*contact form*/
+
+#contact-form {
+    margin-top: 50px;
+}
+
+.gallery-form {
+    background-color:rgba(98, 95, 91, 0.8);
+    font-size:900;
+    color:rgb(20, 7, 19);
+    letter-spacing: 1px;
+    bottom:150px;
+    left:35%;
+    font-weight: 600;
+    position:absolute;
+    border-radius: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.gallery-form h2 {
+    text-align: center;
+}
+.checkout-form {
+    background-color:rgba(89, 120, 134, 0.8);
+    font-size:900;
+    color:rgb(20, 7, 19);
+    letter-spacing: 1px;
+    bottom:10px;
+    left:35%;
+    font-weight: 600;
+    position:absolute;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+.checkout-form h2 {
+    text-align: center;
+}
+.button {
     text-align: center;
 }

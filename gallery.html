@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Yacht Experience</title>
     
   </head>
@@ -21,5 +21,64 @@
         </ul>
       </nav>
     </header>
+    <section id="photos">
+        <img src="css/images/attractivewoman1.jpg" alt="attractive woman relaxing">
+        <img src="css/images/twoyoung.jpg" alt="two persones eating">
+        <img src="css/images/Dog1.jpg" alt="dog sitting">
+        <img src="css/images/pig1.jpg" alt="pig swimming">
+        <img src="css/images/sky1.jpg" alt="from the sky view">
+        <img src="css/images/slipper.jpg" alt="a pair of flip flops">
+        <img src="css/images/lovers.jpg" alt="lovers people on the boat">
+        <img src="css/images/smallboat.jpg" alt="lady relaxing on the boat">
+        <img src="css/images/fun.jpg" alt="having fun on a boat">
+        
+    </section>
+    <footer>
+      <ul class="social-media">
+        <li>
+          <a href="https://facebook.com" target="_blank" rel="noopener"
+          aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook-square"></i></a>
+        </li>
+        <li>
+          <a href="https://twitter.com" target="_blank" rel="noopener"
+              aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+        </li>
+        <li>
+          <a href="https://youtube.com" target="_blank" rel="noopener"
+              aria-label="Visit our YouTube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
+        </li>
+        <li>
+          <a href="https://instagram.com" target="_blank" rel="noopener"
+              aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+        </li>
+      </ul>
+    </footer>
+
+    <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
+
+    <form action="/my-handling-form-page" method="post" class="gallery-form">
+      <h2>Review Chestionaire</h2>
+			<ul>
+				<li>
+					<label for="name">Name:</label>
+					<input type="text" id="name" name="user_name" />
+				</li>
+				<li>
+					<label for="mail">E-mail:</label>
+					<input type="email" id="mail" name="user_mail" />
+				</li>
+				<li>How satisfied were you with our service?
+          <ul>
+            <li><label for="vsat">Very satisfied</label> <input type="radio" name="satisfaction" id="vsat" value="vsat"></li>
+            <li><label for="sat">Satisfied</label> <input type="radio" name="satisfaction" id="sat" value="sat"></li>
+            <li><label for="dcare">Didn't care</label> <input type="radio" name="satisfaction" id="dcare" value="dcare"></li>
+            <li><label for="disat">Dissatisfied</label> <input type="radio" name="satisfaction" id="disat" value="disat"></li>
+  
+          </ul>
+				<li class="button">
+					<button type="submit">Send your message</button>
+				</li>
+			</ul>
+		</form>
   </body>
 </html>
