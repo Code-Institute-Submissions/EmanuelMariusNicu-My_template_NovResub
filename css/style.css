@@ -241,19 +241,38 @@ button:hover {
 /* Footer */
 
 footer {
-    height:150px;
+    height:100%;
+    width:100%;
+    display: grid;
+    place-items: center;
+    margin-top: 30px;
 
 }
-.social-media {
+
+/*social media button */
+.social-media .buton {
+    display:inline;
+    height:60px;
+    width:60px;
+    float:left;
+    margin:0 5px;
+    border-radius: 30px;
+    cursor:pointer;
+    background-color:aliceblue
+
+    
+    
+}
+
+.social-media .buton .icon {
+    display:inline-block;
+    height: 60px;
+    width: 60px;
     text-align: center;
-}
-.social-media  > li {
-    display: inline;
-}
-.social-media i {
-    font-size:190%;
-    margin:1%;
-    padding:5%;
+    border-radius:70px;
+    box-sizing: border-box;
+    line-height: 60px;
+    
 
 }
 
@@ -288,7 +307,7 @@ form {
     width: 400px;
     /* To see the outline of the form */
     padding: 1em;
-    border: 1px solid rgb(209, 162, 162);
+    border: 1px solid #ccc;
     border-radius: 1em;
 }
 
@@ -332,11 +351,7 @@ textarea {
 
 
 
-/*contact form for review chestionaire */
-
-#contact-form {
-    margin-top: 50px;
-}
+/*contact form*/
 
 .gallery-form {
     background-color:rgba(98, 95, 91, 0.8);
@@ -350,32 +365,31 @@ textarea {
     border-radius: 15px;
     padding-top: 40px;
     padding-bottom: 40px;
-    text-align: center;
 }
 .gallery-form h2 {
     text-align: center;
 }
+/*checkout form when buying a package*/
 
-
-/*checkout container and form */
 #checkout-container {
     position: relative;
-   
 }
+
+
 .checkout-form {
     background-color:rgba(89, 120, 134, 0.8);
     font-size:900;
     color:rgb(20, 7, 19);
     letter-spacing: 1px;
+    bottom:10px;
+    left:35%;
     font-weight: 600;
+    position:absolute;
     border-radius: 15px;
-    position: absolute;
-    bottom: -200px;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    text-align: center;
-}
+    padding-top: 20px;
+    padding-bottom: 40px;
 
+}
 .checkout-form h2 {
     text-align: center;
 }
