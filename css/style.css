@@ -92,11 +92,17 @@ body {
 
     background-color:rgba(239, 239, 240, .7);
 
-    display: flex;
-    position:relative;
+/*cover text container styling*/
     border-style: double;
     border-color: rgb(66, 173, 137);
     border-radius: 15px;
+/*positioning */
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 /* why choose us */
 #about-us {
@@ -367,4 +373,19 @@ textarea {
 }
 .button {
     text-align: center;
+}
+
+/* second page cover text */
+
+#cover-text-two {
+    font-size:130%;
+    text-transform: uppercase;
+    letter-spacing:5px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
 }
