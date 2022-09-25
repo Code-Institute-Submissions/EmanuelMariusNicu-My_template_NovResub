@@ -57,11 +57,12 @@ body {
     color:rgba(51, 46, 46, 0.478);
 }
 
-
+/*fixing hero image and creating some zoom effect for page */
 #hero-image {
     height: 800px;
     width: 100%;
     background: url('../css/images/yacht.jpeg') no-repeat center center;
+    position: relative;
 
     /* animates zoom effect on loading the page */
     animation-name: hero-zoom;
@@ -91,10 +92,8 @@ body {
 
     background-color:rgba(239, 239, 240, .7);
 
-    bottom:30px;
-    right:150px;
-
-    position:absolute;
+    display: flex;
+    position:relative;
     border-style: double;
     border-color: rgb(66, 173, 137);
     border-radius: 15px;
