@@ -92,7 +92,7 @@ body {
 
     background-color:rgba(239, 239, 240, .7);
 
-/*cover text container styling*/
+/*cover text over hero image container styling*/
     border-style: double;
     border-color: rgb(66, 173, 137);
     border-radius: 15px;
@@ -104,7 +104,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
 }
-/* why choose us */
+/* why choose us section */
 #about-us {
     height:600px;
 }
@@ -189,7 +189,6 @@ button:hover {
 
 }
 
-/*story-about*/
 
 /*book your experience services*/
 .row {

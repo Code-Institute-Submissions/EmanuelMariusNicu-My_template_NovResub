@@ -28,13 +28,13 @@
           <h3>Iseo Lake & Commo Lake</h3>
         </div>
     <section id="checkout-container">
-        <form action="checkout.php" method="post" class="checkout-form">
+        <form action="checkout.php" method="post" class="checkout-form" method="required">
             <h2>Checkout details</h2>
             <br>
             <ul class="form-text">
-            <li><label for="name">Full name:</label> <input type="text" name="name" id="name" value="" /></li>
-            <li><label for="email">Email Adresse:</label> <input type="text" name="email" id="email" value="" /></li>
-            <li><label for="phone">Phone number:</label> <input type="number" name="phone" id="phone" min="10" max="11"></li>
+            <li><label for="name">Full name:</label> <input type="text" name="name" id="name" value="" required/></li>
+            <li><label for="email">Email Adresse:</label> <input type="text" name="email" id="email" value="" required/></li>
+            <li><label for="phone">Phone number:</label> <input type="number" name="phone" id="phone" min="10" max="11" required></li>
             </ul>
             <ul>
               <li>Please select time of the day that apply to you:
