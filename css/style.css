@@ -65,7 +65,7 @@ body {
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url('/css/images/yacht.jpeg') no-repeat center center;
+    background: url('/css/images/heroyacht.jpeg') no-repeat center center;
     position: relative;
 
     /* animates zoom effect on loading the page */
