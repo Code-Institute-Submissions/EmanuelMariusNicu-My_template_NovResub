@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">>
     <title>Yacht Experience</title>
     
   </head>
@@ -14,11 +14,13 @@
         <h1 id="logo">Unique Yachting Experience</h1>
       </a>
       <nav>
-        <ul id="menu">
-          <li><a href="gallery.html">Gallery</a></li>
-          <li><a href="bookexperience.html">Book Your Experience</a></li>
-          <li><a href="index.html" class="active">Home</a></li>
-        </ul>
+        
+        <div class="navbar">
+          <a href="gallery.html">Gallery</a> 
+          <a href="bookexperience.html">Book Your Experience</a> 
+          <a  class="active" href="index.html">Home</a>
+        </div>
+
       </nav>
     </header>
     <section id="hero-outer">
@@ -36,25 +38,13 @@
             <li><label for="email">Email Adresse:</label> <input type="text" name="email" id="email" value="" required/></li>
             <li><label for="phone">Phone number:</label> <input type="number" name="phone" id="phone" min="10" max="11" required></li>
             </ul>
-            <ul>
-              <li>Please select time of the day that apply to you:
-                <ul>
-                  <li><label for="mornings">Morning</label> <input type="checkbox" name="angry" id="angry" value="angry"></li>
-                  <li><label for="afternoon">Afternoon</label> <input type="checkbox" name="sad" id="sad" value="sad"></li>
-                  <li><label for="evenings">Evening</label> <input type="checkbox" name="happy" id="happy" value="happy"></li>
-                </ul>
-              </li>
-              
-            </ul>
             <br>
-            
             <ul>
                 <li><label for="location">Location:</label>
                     <select name="location" id="location">
                       <option value="">Select location</option>
                       <option value="iseo">Iseo Lake</option>
                       <option value="vcommo">Como Lake</option>
-                      <option value="isola">Isola</option>
                     </select></li>
                 <br>
                 <li><label for="Passengers">Number passangers:</label>
@@ -68,8 +58,6 @@
                     </select></li>
                 <li><label for="photo">Identity document:</label> <input type="file" name="photo" id="photo" value="" /></li>
                 <br>
-
-                <li><label for="comments">Further comments:</label> <textarea name="comments" id="comments" cols="25" rows="3"></textarea></li>
             </ul>
             <br>
             
