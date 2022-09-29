@@ -1,21 +1,21 @@
-<WEBSITE> UNIQUE YACHTING EXPERIENCE>
+WEBSITE : UNIQUE YACHTING EXPERIENCE
 
--A bit of story about us-
-The Website was build for everyone interested in yacht trips and enjoying nature in the same time.
-We are a familiy with tradition in boats and and experience in the highest quality services on board.
+            -A bit of story _ABOUT-US_
+            The Website was build for everyone interested in yacht trips and enjoying nature in the same time.
+            We are a familiy with tradition in boats since 1992 and have experience in the highest quality services on board with our boats.
 
 
 1.FEATURES:
 
 <NAVIGATION> 
 
-        -Featured at the top of the page on the left of the navigation bar is our logo respresenting the experience our clients will have. It links to the home page when       clicked.
+        -Featured at the top of the page on the left of the navigation bar is our logo respresenting the experience our clients will have. It links to the home page when clicked.
 
         -The other navigation links are to the right. They change color when the user hovers over them to alert the user that they are interactive.
 
-        -The navigation area clearly shows the logo so the user knows that they are in the right place. The other links are clear and their function is easy to                 understand for a first time user.
+        -The navigation area clearly shows the logo so the user knows that they are in the right place. The other links are clear and their function is easy to understand for a first time user.
 
-        -When the screen size is reduced to mobile size, a grid list menu replaces the existing nav bar. The logo remains in it's position. This feature creates a clean        interface on mobile.
+        -When the screen size is reduced to mobile size, a grid list menu replaces the existing nav bar. The logo remains in it's position. This feature creates a clean interface on mobile.
 
 <HERO-IMAGE>
         - The hero-image was selected to show our visitors the type of boats we have and the environment they will travel while a board
@@ -37,13 +37,13 @@ We are a familiy with tradition in boats and and experience in the highest quali
         
 <CHECKOUT-FORM/BOOK-YOUR-EXPERIENCE>
         -Once customer is ready to sail with us then they only have to press "Buy-Package" from BOOK-YOUR-EXPERIENCE/PAGE then will be directed to a checkout form which features:      
-        Full name: 
-        Email Adresse: 
-        Phone number: 
-        Location: 
-        Select location
-        Number passangers: 
-        Identity document:
+                        Full name: 
+                        Email Adresse: 
+                        Phone number: 
+                        Location: 
+                        Select location
+                        Number passangers: 
+                        Identity document:
 
         -Features a submit button which loads a page confirming that the submission has been accepted.
 
