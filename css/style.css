@@ -35,21 +35,6 @@ body {
     line-height: 60px;
 
 }
-/* #menu li {
-    float:right;
-    list-style-type: none;
-    margin-right: 30px;
-}
-#menu a {
-    text-decoration: none;
-    color:inherit;
-    font-weight: 900;
-}
-#menu a:hover {
-    color:rgb(89, 8, 182);
-} */
-
-/* hero-image and cover text*/
 
 #hero-outer {
     height:auto;
@@ -65,7 +50,7 @@ body {
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url('/css/images/heroyacht.jpeg') no-repeat center center;
+    background: url(images/heroyacht.jpeg) no-repeat center center;
     position: relative;
 
     /* animates zoom effect on loading the page */
@@ -169,7 +154,7 @@ hr {
 }
 
 #image-container {
-    background: url("/css/images/welcome-image1.jpg")no-repeat center center;
+    background: url(images/welcome-image.jpg)no-repeat center center;
     height: 100%;
     background-size: cover;
     
@@ -473,7 +458,7 @@ textarea {
 }
       
 .navbar a {
-    float: left;
+    float: right;
     padding: 12px;
     color:inherit;
     text-decoration: none;
