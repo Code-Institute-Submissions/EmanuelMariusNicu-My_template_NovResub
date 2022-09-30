@@ -62,6 +62,8 @@ WEBSITE : UNIQUE YACHTING EXPERIENCE
         -I have checked that the form requires valid inputs.
         
 3.BUGS
+        -Unsolved bugs:
+        -Checkout form when on bookyourexperience/page-> Buy Package -> Checkout form still needs some positioning and media query for small screens.
         
         
 4.VALIDATOR TEST
@@ -73,3 +75,6 @@ WEBSITE : UNIQUE YACHTING EXPERIENCE
         -This site was deployed using GitHub pages. The steps are as follows:
                 In the GitHub repository, navigate to the Settings tab->Pages -> Visit site/This site is live at https://emanuelmariusnicu.github.io/My_template/
 6.CREDITS
+
+        -Media images were taken from www.Google.com
+        -Media query for navbar was taken from www.W3scools.com
