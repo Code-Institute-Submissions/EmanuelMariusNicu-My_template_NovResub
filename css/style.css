@@ -82,8 +82,7 @@ body {
     background-color:rgba(239, 239, 240, .7);
 
 /*cover text over hero image container styling*/
-    border-style: double;
-    border-color: rgb(66, 173, 137);
+    border-color: rgb(15, 5, 73);
     border-radius: 15px;
 /*positioning */
     bottom:150px;
@@ -146,10 +145,11 @@ hr {
 #circle-container {
     width:300px;
     height: 300px;
-    padding:10px;
+    padding:25px;
     border-style: solid;
     border-width: 1px;
     margin: 0 auto;
+   
     
 }
 
@@ -157,6 +157,7 @@ hr {
     background: url(images/welcome-image.jpg)no-repeat center center;
     height: 100%;
     background-size: cover;
+    
     
 }
 
@@ -277,12 +278,10 @@ footer {
 }
 
 
-/*Form */
+/*Checkout-form */
 
 form {
-    /* Just to center the form on the page */
-    margin: 0 auto;
-    width: 400px;
+   
     /* To see the outline of the form */
     padding: 1em;
     border: 1px solid #ccc;
@@ -319,44 +318,11 @@ textarea:focus {
     /* To give a little highlight on active elements */
     border-color: #000;
 }
-
-textarea {
-    /* To properly align multiline text fields with their labels */
-    vertical-align: top;
-    /* To give enough room to type some text */
-    height: 5em;
-}
-
-
-
-/*contact form*/
-
-.gallery-form {
-    background-color:rgba(98, 95, 91, 0.8);
-    font-size:large;
-    color:rgb(20, 7, 19);
-    letter-spacing: 1px;
-    bottom:150px;
-    font-weight: 600;
-    border-radius: 15px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    display: inline-block;
-   
-
-}
-.gallery-form h2 {
-    text-align: center;
-}
 /*checkout form when buying a package*/
-
-#checkout-container {
-    position: relative;
-}
 
 
 .checkout-form {
-    background-color:rgba(89, 120, 134, 0.8);
+    background-color: rgb(227, 232, 241);
     font-size:large;
     color:rgb(20, 7, 19);
     letter-spacing: 1px;
@@ -371,7 +337,38 @@ textarea {
 .checkout-form h2 {
     text-align: center;
 }
-.button {
+.buton {
+    text-align: center;
+    list-style: none;
+
+}
+
+textarea {
+    /* To properly align multiline text fields with their labels */
+    vertical-align: top;
+    /* To give enough room to type some text */
+    height: 5em;
+}
+
+
+
+/*contact form*/
+
+.gallery-form {
+    background-color: rgb(227, 232, 241);
+    font-size:large;
+    color:rgb(20, 7, 19);
+    letter-spacing: 1px;
+    bottom:150px;
+    font-weight: 600;
+    border-radius: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: inline-block;
+   
+
+}
+.gallery-form h2 {
     text-align: center;
 }
 
@@ -417,7 +414,7 @@ textarea {
         display: none;
     }
     .gallery-form {
-        background-color: rgba(98, 95, 91, 0.8);
+        background-color: rgb(227, 232, 241);
         font-size: large;
         color: rgb(20, 7, 19);
         letter-spacing: 1px;
