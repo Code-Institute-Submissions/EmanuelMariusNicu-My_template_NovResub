@@ -50,7 +50,7 @@ body {
 #hero-image {
     height: 500px;
     width: 100%;
-    background: url(images/heroyacht.jpeg) no-repeat center center;
+    background: url(/images/heroyacht.jpeg) no-repeat center center;
     position: relative;
 
     /* animates zoom effect on loading the page */
@@ -154,7 +154,7 @@ hr {
 }
 
 #image-container {
-    background: url(images/welcome-image.jpg)no-repeat center center;
+    background: url(/images/welcome-image.jpg)no-repeat center center;
     height: 100%;
     background-size: cover;
     
@@ -330,18 +330,10 @@ textarea:focus {
     border-radius: 15px;
     padding-top: 20px;
     padding-bottom: 40px;
-    display:inline-block;
-    width: auto;
+    display: flex;
+    
+}
 
-}
-.checkout-form h2 {
-    text-align: center;
-}
-.buton {
-    text-align: center;
-    list-style: none;
-
-}
 
 textarea {
     /* To properly align multiline text fields with their labels */
