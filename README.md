@@ -106,29 +106,29 @@ The css code was passed through the [Official W3C CSS Validator](https://jigsaw.
 
 ## Lighthouse Testing
 
-### Chrome DevTools Lighthouse
+### Chrome DevTools Lighthouse:
 
-**Home /Page - Mobile**
+* Home /Page - Mobile
 
 ![image](https://user-images.githubusercontent.com/108750655/201523368-1b15630b-e2a1-4b7c-bf90-ccb88f8fa056.png)
 
 
-**Home / Game Page - Desktop**
+* Home / Game Page - Desktop
 
 ![image](https://user-images.githubusercontent.com/108750655/201523310-f17252fc-d726-499a-ac33-61ff88320533.png)
 
-** Book-your-experience /Page - Mobile
+* Book-your-experience /Page - Mobile
 
 ![image](https://user-images.githubusercontent.com/108750655/201525171-e5c64973-92d3-4f1f-b550-682fe6689299.png)
 
 
-** Book-your-experience /Page - Desktop
+* Book-your-experience /Page - Desktop
 ![image](https://user-images.githubusercontent.com/108750655/201525235-11ac4caa-2542-4ae6-9500-d11bcec5b23d.png)
 
-** Gallery /Page - Mobile
+* Gallery /Page - Mobile
 ![image](https://user-images.githubusercontent.com/108750655/201523694-599ddc85-7ea8-4c87-a2b3-6ba0e0541d1e.png)
 
-** Gallery /Page - Desktop
+* Gallery /Page - Desktop
 ![image](https://user-images.githubusercontent.com/108750655/201523631-926e1c24-1ebc-4b64-9e33-0bee7cd3177f.png)
 
 
