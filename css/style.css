@@ -149,8 +149,8 @@ hr {
 /* why choose coming with us section (center image) */
 
 #circle-container {
-    width:300px;
-    height: 300px;
+    width:270px;
+    height: 180px;
     padding:25px;
     border-style: solid;
     border-width: 1px;
@@ -160,9 +160,8 @@ hr {
 }
 
 #image-container {
-    background: url(images/welcome-image.jpg)no-repeat center center;
-    height: 100%;
-    background-size: cover;
+    height: 600px;
+    width:100%;
     
     
 }
@@ -345,6 +344,19 @@ footer {
         width: 100%;
         float: left;
         padding: 0;
+    }
+    #left-about h2 {
+        display: list-item;                                                       
+        list-style-type: square;     
+        list-style-position: inside;
+        color:rgb(24, 66, 116);
+    
+    }
+    #right-about h2 {
+        display: list-item;          
+        list-style-position: inside;
+        list-style-type: square;
+        color:rgb(24, 66, 116);
     }
     #center-about {
         clear: both;
