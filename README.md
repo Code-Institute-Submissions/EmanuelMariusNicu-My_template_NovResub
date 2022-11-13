@@ -192,7 +192,7 @@ The Website was tested on Chrome and Edge Developer Tools for responsiveness on 
  
  # 7. DEPLOYMENT
 
-### This site was deployed using GitHub pages. The steps are as follows: In the GitHub repository, navigate to the Settings tab->Pages -> Visit site/This site is live at https://emanuelmariusnicu.github.io/My_template/
+### This site was deployed using GitHub pages. The steps are as follows: 
 1. Log on to GitHub and select 'Mt_template' from the list of repositories.
 2. Click on 'Settings' on the menu just below the repository's name.
 3. Navigate to the left side menu and click on 'Pages' in the 'Code and Automation' section.
@@ -200,7 +200,7 @@ The Website was tested on Chrome and Edge Developer Tools for responsiveness on 
 5. In the 'Branch' section select the `main` branch and the `/(root)` folder.
 6. Click 'Save'.
 7. A message that the site is ready to be deployed appears just under the 'GitHub Pages' heading.  After refreshing the page, the link to the deployed site appears in a different color. 
-8.[Visit the website here] (https://emanuelmariusnicu.github.io/color-game/)
+8.[Visit the website here] ( https://emanuelmariusnicu.github.io/My_template/)
  
  # 8. CREDITS
 
