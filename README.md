@@ -2,7 +2,8 @@
 
 ## A bit of story about us_
 ### The Website was build for everyone interested in yacht trips and enjoying nature in the same time. We are a familiy with tradition boats since 1992 and have experience in the highest quality services on board.
-## Website on all devices
+## Website on all devices![image](https://user-images.githubusercontent.com/108750655/201526382-6549a674-7ca6-450d-a13e-daf57ff0c957.png)
+
 
 
  # 2. Features:
@@ -20,12 +21,14 @@
 
  ### On this page customers interested in our services they can see in more detais 4 packages we offer at this moment with everything they wanna know if interested in buying.They see details like where they travel, when, how many persons, how much it cost.
         
-  ### The offert is a row with all four packages in the same line which it makes very easier for client to do a comparison and easy to make a choice. All packages they have an image attached with our personal pictures from the spot.
+  ### The offert is a row with all four packages in the same line which it makes very easier for client to do a comparison and easy to make a choice. All packages they have an image attached with our personal pictures from the spot.![image](https://user-images.githubusercontent.com/108750655/201526429-b6c2ce54-3493-4e0b-859f-8117e8782338.png)
+
 
  ## Gallery/Page
 
   ### In this gallery section we keep memoires along time.
-  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always imporove for better experience.
+  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always improve for better experience.![image](https://user-images.githubusercontent.com/108750655/201526492-8e733e40-177f-4715-8b91-69b4a9fadeac.png)
+
   ### The questionnaire has required attribute so can only be submitted if all fields have been completed.
  ## Home/Page
  ### Clicking home button redirect you on the home page.
@@ -43,7 +46,8 @@
 
  ## FOOTER
 
- ### Footer contains four links to sites that host our business.
+ ### Footer contains four links to sites that host our business.![image](https://user-images.githubusercontent.com/108750655/201526544-4c50d99b-01d6-45ec-b320-2ba029e451f9.png)
+
 # 3. User Experience (UX)
 ## Strategy / Site Goals
 
