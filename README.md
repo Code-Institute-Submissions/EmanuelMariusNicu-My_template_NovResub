@@ -199,8 +199,9 @@ The Website was tested on Chrome and Edge Developer Tools for responsiveness on 
 4. In the Main area under 'Build and Deployment', click on the source dropdown menu and select the 'Deploy from Branch' selection.
 5. In the 'Branch' section select the `main` branch and the `/(root)` folder.
 6. Click 'Save'.
-7. A message that the site is ready to be deployed appears just under the 'GitHub Pages' heading.  After refreshing the page, the link to the deployed site appears in a different color. 
-8.[Visit the website here] ( https://emanuelmariusnicu.github.io/My_template/)
+7. A message that the site is ready to be deployed appears just under the 'GitHub Pages' heading.  After refreshing the page, the link to the deployed site appears in a different color.
+
+8. [Visit the website here] ( https://emanuelmariusnicu.github.io/My_template/)
  
  # 8. CREDITS
 
