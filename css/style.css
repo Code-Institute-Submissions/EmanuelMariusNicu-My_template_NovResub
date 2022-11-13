@@ -288,11 +288,11 @@ footer {
 /*contact form*/
 
 .gallery-form {
-    background-color: rgb(148, 180, 240);
+    background-color: rgb(148, 180, 240, 0.9);
     font-size: 1.5rem;
     color: rgb(20, 7, 19);
     letter-spacing: 1px;
-    border-radius: 15px;
+    border-radius: 5px;
     font-weight: 800;
     width: auto;
     top: -300px;
