@@ -160,7 +160,7 @@ hr {
 }
 
 #image-container {
-    background: url(/images/welcome-image.jpg)no-repeat center center;
+    background: url(images/welcome-image.jpg)no-repeat center center;
     height: 100%;
     background-size: cover;
     
