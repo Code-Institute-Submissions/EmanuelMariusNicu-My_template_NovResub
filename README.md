@@ -27,7 +27,8 @@
  * ## Gallery/Page
 
   ### In this gallery section we keep memoires along time.
-  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always improve for better experience.
+  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always improve for better experience.![image](https://user-images.githubusercontent.com/108750655/202264283-3adad2c5-0b83-483f-bb0a-72bcb178dc18.png)
+
   ### The questionnaire has required attribute so can only be submitted if all fields have been completed.
  * ## Home/Page
  ### Clicking home button redirect you on the home page.
