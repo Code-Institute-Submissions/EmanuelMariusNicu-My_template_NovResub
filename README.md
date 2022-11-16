@@ -8,7 +8,7 @@
 
  # 2. Features:
 
-  ## Navigation
+  * ## Navigation
 
 ### Featured at the top of the page on the left of the navigation bar is our logo respresenting the experience our clients will have. It links to the home page when clicked.
 
@@ -17,34 +17,33 @@
  ### The navigation area clearly shows the logo so the user knows that they are in the right place. The other links are clear and their function is easy to understand for a first time user.
 
   ### When the screen size is reduced to mobile size, a grid list menu replaces the existing nav bar. The logo remains in it's position. This feature creates a clean interface on mobile.
-  ## Book-your-experience/Page
+ * ## Book-your-experience/Page
 
  ### On this page customers interested in our services they can see in more detais 4 packages we offer at this moment with everything they wanna know if interested in buying.They see details like where they travel, when, how many persons, how much it cost.
         
   ### The offert is a row with all four packages in the same line which it makes very easier for client to do a comparison and easy to make a choice. All packages they have an image attached with our personal pictures from the spot.![image](https://user-images.githubusercontent.com/108750655/201526429-b6c2ce54-3493-4e0b-859f-8117e8782338.png)
 
 
- ## Gallery/Page
+ * ## Gallery/Page
 
   ### In this gallery section we keep memoires along time.
-  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always improve for better experience.![image](https://user-images.githubusercontent.com/108750655/201526492-8e733e40-177f-4715-8b91-69b4a9fadeac.png)
-
+  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always improve for better experience.
   ### The questionnaire has required attribute so can only be submitted if all fields have been completed.
- ## Home/Page
+ * ## Home/Page
  ### Clicking home button redirect you on the home page.
 
- ## Hero-Image
+ * ## Hero-Image
 
 ### The hero-image was selected to show our visitors the type of boats we have and the environment they will have while on board.
     
- ## About-us section
+ * ## About-us section
 
 ### The right side and left side about section features a short description of what we offer for our customers.
 
         
  
 
- ## FOOTER
+ * ## FOOTER
 
  ### Footer contains four links to sites that host our business.![image](https://user-images.githubusercontent.com/108750655/201526544-4c50d99b-01d6-45ec-b320-2ba029e451f9.png)
 
