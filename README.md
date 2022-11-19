@@ -2,7 +2,7 @@
 
 ## A bit of story about us_
 ### The Website was build for everyone interested in yacht trips and enjoying nature in the same time. We are a familiy with tradition boats since 1992 and have experience in the highest quality services on board.
-## Website on all devices![image](https://user-images.githubusercontent.com/108750655/201526382-6549a674-7ca6-450d-a13e-daf57ff0c957.png)
+## Website on all devices![image](https://user-images.githubusercontent.com/108750655/202853172-6b68741e-f33f-46d8-9a6b-e58a414f4a01.png)
 
 
 
@@ -17,21 +17,21 @@
  ### The navigation area clearly shows the logo so the user knows that they are in the right place. The other links are clear and their function is easy to understand for a first time user.
 
   ### When the screen size is reduced to mobile size, a grid list menu replaces the existing nav bar. The logo remains in it's position. This feature creates a clean interface on mobile.
- * ## Book-your-experience/Page
+ * ## Book experience/Page
 
  ### On this page customers interested in our services they can see in more detais 4 packages we offer at this moment with everything they wanna know if interested in buying.They see details like where they travel, when, how many persons, how much it cost.
         
-  ### The offert is a row with all four packages in the same line which it makes very easier for client to do a comparison and easy to make a choice. All packages they have an image attached with our personal pictures from the spot.![image](https://user-images.githubusercontent.com/108750655/201526429-b6c2ce54-3493-4e0b-859f-8117e8782338.png)
-
+  ### The offert is a row with all four packages in the same line which it makes very easier for client to do a comparison and easy to make a choice. All packages they have an image attached with our personal pictures from the spot.![image](https://user-images.githubusercontent.com/108750655/202853358-3208ff9d-dec4-4120-99bf-daf5b2b96d62.png)
 
  * ## Gallery/Page
 
   ### In this gallery section we keep memoires along time.
-  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always improve for better experience.![image](https://user-images.githubusercontent.com/108750655/202264283-3adad2c5-0b83-483f-bb0a-72bcb178dc18.png)
-
+  ### On this page we have a questionnaire form so our customers can leave their thoughts so we can always improve for better experience.
   ### The questionnaire has required attribute so can only be submitted if all fields have been completed.
  * ## Home/Page
  ### Clicking home button redirect you on the home page.
+ ![image](https://user-images.githubusercontent.com/108750655/202853419-6104661c-4877-4274-bc97-34fe8b2cbad6.png)
+
 
  * ## Hero-Image
 
@@ -46,7 +46,7 @@
 
  * ## FOOTER
 
- ### Footer contains four links to sites that host our business.![image](https://user-images.githubusercontent.com/108750655/201526544-4c50d99b-01d6-45ec-b320-2ba029e451f9.png)
+ ### Footer contains four links to sites that host our business and developer contact![image](https://user-images.githubusercontent.com/108750655/202853436-ed4e4d8a-8234-4f82-8eab-cfd6c677f85e.png)
 
 # 3. User Experience (UX)
 ## Strategy / Site Goals
@@ -117,12 +117,12 @@ The css code was passed through the [Official W3C CSS Validator](https://jigsaw.
 
 ![image](https://user-images.githubusercontent.com/108750655/201523310-f17252fc-d726-499a-ac33-61ff88320533.png)
 
-* Book-your-experience /Page - Mobile
+* Book-experience /Page - Mobile
 
 ![image](https://user-images.githubusercontent.com/108750655/201525171-e5c64973-92d3-4f1f-b550-682fe6689299.png)
 
 
-* Book-your-experience /Page - Desktop
+* Book-experience /Page - Desktop
 ![image](https://user-images.githubusercontent.com/108750655/201525235-11ac4caa-2542-4ae6-9500-d11bcec5b23d.png)
 
 * Gallery /Page - Mobile
@@ -148,8 +148,8 @@ The css code was passed through the [Official W3C CSS Validator](https://jigsaw.
 | Page      | Device | Category      | Result |
 |-----------|--------|---------------|--------|
 |Book-      | Mobile | Performance   | 98%    |
-|-your      |        | Accessibility | 94%    |
-|-experience|        | Best Practice | 100%   |
+|-experience|        | Accessibility | 94%    |
+|           |        | Best Practice | 100%   |
 |           |        | SEO           | 92%    |
 |           | Desktop| Performance   | 100%   |
 |           |        | Accessibility | 94%    |
