@@ -230,7 +230,7 @@ footer {
 /*contact form*/
 .gallery-form {
     background-color: rgb(148, 180, 240, 0.9);
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: rgb(20, 7, 19);
     letter-spacing: 1px;
     border-radius: 5px;
@@ -346,13 +346,26 @@ footer {
  
 @media screen and (max-width: 850px) {
   .gallery-form {
-      top: 10px;
+      top: -250px;
   }
   .column {
     width:auto;
     display: inline-block;
     vertical-align: top;
   }
+}
+ 
+@media screen and (max-width: 750px) {
+    .gallery-form {
+        top: -200px;
+    }
+}
+ 
+@media screen and (max-width: 650px) {
+    .gallery-form {
+        top: -150px;
+        font-size: 1rem;
+    }
 }
 /*media screen under 500px*/    
 @media screen and (max-width: 500px) {
@@ -372,7 +385,8 @@ footer {
     }
     
     .gallery-form {
-        font-size: 1rem;
+        top:-20px;
+        font-size: 0.9rem;
         font-weight: 300;
     }
     .column {
